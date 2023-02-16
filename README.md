@@ -1,1 +1,3 @@
-# Stroke_prediction
+# Introduction
+
+The majority of strokes will be brought on by an unanticipated obstruction of the courses that are being prompted by both the brain and the heart. Knowing the many warning signals of a stroke early on can help reduce the severity of the stroke. This research work proposes an early prediction of stroke diseases by using various machine learning approaches with the occurrence of hypertension, body mass index level, heart disease, average glucose level, smoking status, previous stroke, and age. The research was carried out by the National Institute of Neurological Disorders and Stroke (NINDS).Using these high features attributes, four different classifiers have been trained Using ONEAPI , they are SVM,BernoulliNB,Random forest and XGboost
